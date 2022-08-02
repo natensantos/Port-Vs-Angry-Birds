@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BackBirds.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BackBirds instância 10000" x="10" y="10" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10001" x="1649" y="10" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10002" x="10" y="443" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10003" x="1649" y="443" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10004" x="10" y="876" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10005" x="1649" y="876" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10006" x="10" y="1309" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10007" x="1649" y="1309" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10008" x="10" y="1742" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10009" x="1649" y="1742" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10010" x="1649" y="1742" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10011" x="1649" y="1742" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10012" x="1649" y="1742" width="1539" height="333"/>
+	<SubTexture name="BackBirds instância 10013" x="1649" y="1742" width="1539" height="333"/>
+</TextureAtlas>

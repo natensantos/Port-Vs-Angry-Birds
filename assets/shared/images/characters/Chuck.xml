@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chuck..png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bumpin instância 10000" x="0" y="0" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10001" x="293" y="0" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10002" x="586" y="0" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10003" x="879" y="0" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10004" x="1172" y="0" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10005" x="1465" y="0" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10006" x="1758" y="0" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10007" x="0" y="239" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10008" x="293" y="239" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10009" x="586" y="239" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10010" x="586" y="239" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10011" x="586" y="239" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10012" x="586" y="239" width="253" height="199"/>
+	<SubTexture name="Bumpin instância 10013" x="586" y="239" width="253" height="199"/>
+	<SubTexture name="Speed instância 10000" x="879" y="239" width="793" height="205"/>
+	<SubTexture name="Speed instância 10001" x="0" y="484" width="793" height="205"/>
+	<SubTexture name="Speed instância 10002" x="833" y="484" width="793" height="205"/>
+	<SubTexture name="Speed instância 10003" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10004" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10005" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10006" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10007" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10008" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10009" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10010" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10011" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10012" x="0" y="729" width="793" height="205"/>
+	<SubTexture name="Speed instância 10013" x="0" y="729" width="793" height="205"/>
+</TextureAtlas>
