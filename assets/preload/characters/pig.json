@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pig Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pig Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pig Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pig Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pig Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				205
+			],
+			"anim": "Hit",
+			"fps": 24,
+			"name": "Pig Hit",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Pop",
+			"indices": [],
+			"name": "Pig Pop"
+		},
+		{
+			"offsets": [
+				-4,
+				2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "Pig Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pig",
+	"position": [
+		1370,
+		460
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-320,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Red Idle"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Red Left"
+		},
+		{
+			"offsets": [
+				-4,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Red Down"
+		},
+		{
+			"offsets": [
+				6,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Red Up"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Red Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Red",
+	"position": [
+		40,
+		440
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		8,
+		30
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

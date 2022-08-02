@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Red Idle"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Red Left"
+		},
+		{
+			"offsets": [
+				-4,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Red Down"
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Red Up"
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Red Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RedAngry",
+	"position": [
+		40,
+		440
+	],
+	"healthicon": "pig",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		204,
+		51
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
